@@ -1,0 +1,9 @@
+{
+  "name": "Cine en pareja",
+  "short_name": "Cine2",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#17121F",
+  "theme_color": "#17121F",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
